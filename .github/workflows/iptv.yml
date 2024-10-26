@@ -1,0 +1,30 @@
+name: Update IPTV
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # 每天 UTC 时间 00:00 运行一次
+
+jobs:
+  update-iptv:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Fetch IPTV content
+      run: |
+        curl -k 'https://www.now61.com/api/v3/share/content/0l6FA?path=null' \
+          -H 'referer: https://www.now61.com/s/0l6FA/text?name=iptv.txt' \
+          -o iptv.txt
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add iptv.txt
+        git commit -m "Update IPTV file"
+        git push
+      env:
+        TOKEN: ${{ secrets.GITHUB_TOKEN }}
