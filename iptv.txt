@@ -1,5 +1,3 @@
-更新时间,#genre#
-2024-10-14
 
 
 CCTV-1 综合,http://php.iptviptv.site/iptv.php?id=cctv01
