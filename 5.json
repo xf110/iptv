@@ -80,17 +80,17 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "MercuryZz",
+          "name": "G027",
           "type":"0",
           "pass": true,
-          "url":"https://raw.gitmirror.com/MercuryZz/IPTVN/refs/heads/Files/IPTV.m3u",
+          "url":"https://gitee.com/g027/tv0816/raw/master/hubeiliantong.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "YueChan",
+          "name": "鹏九直播",
           "type":"0",
           "pass": true,
-          "url":"https://raw.gitmirror.com/YueChan/Live/refs/heads/main/Global.m3u",
+          "url":"https://mcp2016.github.io/TVBox/lives.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
@@ -101,10 +101,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "I529987",
+          "name": "TW",
           "type":"0",
           "pass": true,
-          "url":"https://github.com/l529987/av/blob/main/lived.txt",
+          "url":"https://raw.githubusercontent.com/hus888yu/app/refs/heads/main/tw.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
@@ -150,10 +150,17 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "YueC",
+          "name": "CR",
           "type":"0",
           "pass": true,
-          "url":"https://raw.gitmirror.com/YueChan/Live/main/Adult.m3u",
+          "url":"https://tv.iill.top//m3u/Adult",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "SP",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.githubusercontent.com/hus888yu/app/refs/heads/main/sp1.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
