@@ -13,7 +13,7 @@
           "name": "MDXGH",
           "type":"0",
           "pass": true,
-          "url":"http://120.79.4.185/new/mdlive.txt",
+          "url":"http://120.79.4.185/new/live.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
@@ -24,24 +24,24 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "暮雨",
+          "name": "MmUuYUu",
           "type":"0",
           "pass": true,
           "url": "https://4key.cn/FP",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "HS",
+          "name": "Radio",
           "type":"0",
           "pass": true,
-          "url":"https://raw.gitmirror.com/mlzlzj/hs/refs/heads/main/iptv_list.txt",
+          "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/radio.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "沐辰",
+          "name": "ST-NEW",
           "type":"0",
           "pass": true,
-          "url":"https://json.doube.eu.org/live/migu/Sub.php",
+          "url":"https://raw.gitmirror.com/250992941/TV/refs/heads/master/output/result.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
@@ -101,10 +101,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "TW",
+          "name": "YFDD",
           "type":"0",
           "pass": true,
-          "url":"https://raw.githubusercontent.com/hus888yu/app/refs/heads/main/tw.txt",
+          "url":"https://gitea.moe/xiangjiao-ge/yifa169/raw/branch/main/yiyifafa.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
@@ -122,10 +122,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "GD",
+          "name": "P3p",
           "type":"0",
           "pass": true,
-          "url":"https://gyssi.link/live/%E5%B9%BF%E4%B8%9C1.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
+          "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/p3.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
@@ -136,10 +136,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
        },{
-          "name": "GC",
+          "name": "看电视",
           "type":"0",
           "pass": true,
-          "url":"https://gyssi.link/live/%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
+          "url":"http://8.138.7.223/v12.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
        },{
@@ -157,10 +157,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "SP",
+          "name": "SMYUYU",
           "type":"0",
           "pass": true,
-          "url":"https://raw.githubusercontent.com/hus888yu/app/refs/heads/main/sp1.txt",
+          "url":"https://git.acwing.com/Mix2025/0/-/raw/0/Mix1.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
